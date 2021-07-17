@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-# music-lyric-app
-Sing along to your favorite songs by streaming songs directly from Spotify.
-=======
 # spotify-karaoke
 Sing along to your favorite songs by streaming them from Spotify.
->>>>>>> 4f4c20ea3074f9a53333b5f31fa1068422bc714c
+
+### Libraries:
+- ReactJS, NodeJS, ExpressJS, Material UI
+
+### Dependencies:
+- Axios, Spotify Web Api Node, Cors, Lyric Finder
+
+You do need to have a premium version of Spotify to use this app.
